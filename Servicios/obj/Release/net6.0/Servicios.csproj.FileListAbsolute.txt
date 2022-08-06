@@ -1,0 +1,12 @@
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\bin\Release\net6.0\Servicios.deps.json
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\bin\Release\net6.0\Servicios.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\bin\Release\net6.0\Servicios.pdb
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\Servicios.AssemblyInfo.cs
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\Servicios.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\refint\Servicios.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\Servicios.pdb
+C:\Projects\Cares\Cares.Data\WinformsProj\Servicios\obj\Release\net6.0\ref\Servicios.dll

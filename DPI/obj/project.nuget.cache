@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "18xgcgwf8ikd+gORnuomBw4WJ7cJzsP0GVsBpOON2beDCnYx+IbYMPAQfG3iAms6KIAqCMRArhyPOuIaLO0J/w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\WinformsProj\\winformsCourse\\DPI\\DPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WilmarArias\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\WilmarArias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\WilmarArias\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

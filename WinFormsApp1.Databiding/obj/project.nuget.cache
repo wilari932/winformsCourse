@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RRCa3oGadJA5oo3A+4hITXSfO2A3q0MNH4lFtNHF9bbbybfvfQy31HhW34lqefvc6oFnFlNdp7Ix8SB2Lw/+A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\WinformsProj\\winformsCourse\\WinFormsApp1.Databiding\\WinFormsApp1.Databiding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WilmarArias\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\WilmarArias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\WilmarArias\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

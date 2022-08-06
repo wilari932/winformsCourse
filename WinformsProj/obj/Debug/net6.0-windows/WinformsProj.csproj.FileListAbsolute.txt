@@ -1,0 +1,17 @@
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\bin\Debug\net6.0-windows\WinformsProj.exe
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\bin\Debug\net6.0-windows\WinformsProj.deps.json
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\bin\Debug\net6.0-windows\WinformsProj.runtimeconfig.json
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\bin\Debug\net6.0-windows\WinformsProj.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\bin\Debug\net6.0-windows\WinformsProj.pdb
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.csproj.AssemblyReference.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.csproj.GenerateResource.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.AssemblyInfoInputs.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.AssemblyInfo.cs
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.csproj.CoreCompileInputs.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\refint\WinformsProj.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.pdb
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.genruntimeconfig.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\ref\WinformsProj.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\WinformsProj\obj\Debug\net6.0-windows\WinformsProj.Form1.resources

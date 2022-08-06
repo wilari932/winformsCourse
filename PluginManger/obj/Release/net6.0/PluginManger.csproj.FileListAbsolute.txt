@@ -1,0 +1,15 @@
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\bin\Release\net6.0\PluginManger.deps.json
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\bin\Release\net6.0\PluginManger.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\bin\Release\net6.0\PluginManger.pdb
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\bin\Release\net6.0\Servicios.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\bin\Release\net6.0\Servicios.pdb
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\PluginManger.csproj.AssemblyReference.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\PluginManger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\PluginManger.AssemblyInfoInputs.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\PluginManger.AssemblyInfo.cs
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\PluginManger.csproj.CoreCompileInputs.cache
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\PluginManger.csproj.CopyComplete
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\PluginManger.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\refint\PluginManger.dll
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\PluginManger.pdb
+C:\Projects\Cares\Cares.Data\WinformsProj\PluginManger\obj\Release\net6.0\ref\PluginManger.dll
