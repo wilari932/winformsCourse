@@ -19,17 +19,18 @@ namespace PluginManger
         public static IPluginManagerProductService LoadPlugin()
         {
             var pluginFile = Directory.GetFiles(PluginFolder, "*Plugins.dll").FirstOrDefault();
+            if (pluginFile is null)
+                return null;
             var context = new AssemblyLoadContext(pluginFile);
-            var assembly = context.LoadFromAssemblyPath(System.IO.Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(),pluginFile)));
+       
+             using var file = new FileStream(pluginFile, FileMode.Open, FileAccess.Read);
+            
+            var assembly = context.LoadFromStream(file);
             var types = assembly.GetTypes().ToList();
             var t = types.FirstOrDefault(x => typeof(IPluginManagerProductService).IsAssignableFrom(x));
-            //.FirstOrDefault();
-                //.Select((p) => new AssemblyLoadContext(p).LoadFromAssemblyPath(System.IO.Path.GetFullPath(p))).Select(c =>
-                //    c.GetTypes().FirstOrDefault(x => x.IsAssignableFrom(typeof(IPluginManagerProductService))))
-                //.FirstOrDefault();
-
-
-
+            if (t == null)
+                return null;
+           
             IPluginManagerProductService p = Activator.CreateInstance(t) as IPluginManagerProductService;
           return p;
 

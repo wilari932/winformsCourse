@@ -9,7 +9,7 @@ namespace Plugins
 {
     public class MyButtonPlugin:IPluginButton
     {
-        public byte Red { get; } = 11;
+        public byte Red { get; } = 110;
         public byte Green { get; } = 120;
         public byte Blue { get; set; } = 183;
     }

@@ -13,6 +13,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Projects\Cares\Cares.Data\WinformsProj\Plugins\bin\Release\net6.0\Plugins.dll" target="lib\net6.0\Plugins.dll" />
+    <file src="C:\Projects\WinformsProj\winformsCourse\Plugins\bin\Release\net6.0\Plugins.dll" target="lib\net6.0\Plugins.dll" />
   </files>
 </package>

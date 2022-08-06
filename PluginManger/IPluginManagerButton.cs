@@ -25,7 +25,9 @@ namespace PluginManger
             if (pluginFile is null)
                 return null;
             var context = new AssemblyLoadContext(pluginFile);
-            var assembly = context.LoadFromAssemblyPath(System.IO.Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), pluginFile)));
+            using var file = new FileStream(pluginFile, FileMode.Open, FileAccess.Read);
+
+            var assembly = context.LoadFromStream(file);
             var types = assembly.GetTypes().ToList();
             var t = types.FirstOrDefault(x => typeof(IPluginButton).IsAssignableFrom(x));
             if (t == null)
